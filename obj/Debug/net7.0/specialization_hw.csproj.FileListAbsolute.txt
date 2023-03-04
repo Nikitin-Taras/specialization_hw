@@ -1,0 +1,15 @@
+C:\Users\Nikit\Desktop\Учеба GB\Specialization\specialization_hw\bin\Debug\net7.0\specialization_hw.exe
+C:\Users\Nikit\Desktop\Учеба GB\Specialization\specialization_hw\bin\Debug\net7.0\specialization_hw.deps.json
+C:\Users\Nikit\Desktop\Учеба GB\Specialization\specialization_hw\bin\Debug\net7.0\specialization_hw.runtimeconfig.json
+C:\Users\Nikit\Desktop\Учеба GB\Specialization\specialization_hw\bin\Debug\net7.0\specialization_hw.dll
+C:\Users\Nikit\Desktop\Учеба GB\Specialization\specialization_hw\bin\Debug\net7.0\specialization_hw.pdb
+C:\Users\Nikit\Desktop\Учеба GB\Specialization\specialization_hw\obj\Debug\net7.0\specialization_hw.csproj.AssemblyReference.cache
+C:\Users\Nikit\Desktop\Учеба GB\Specialization\specialization_hw\obj\Debug\net7.0\specialization_hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikit\Desktop\Учеба GB\Specialization\specialization_hw\obj\Debug\net7.0\specialization_hw.AssemblyInfoInputs.cache
+C:\Users\Nikit\Desktop\Учеба GB\Specialization\specialization_hw\obj\Debug\net7.0\specialization_hw.AssemblyInfo.cs
+C:\Users\Nikit\Desktop\Учеба GB\Specialization\specialization_hw\obj\Debug\net7.0\specialization_hw.csproj.CoreCompileInputs.cache
+C:\Users\Nikit\Desktop\Учеба GB\Specialization\specialization_hw\obj\Debug\net7.0\specialization_hw.dll
+C:\Users\Nikit\Desktop\Учеба GB\Specialization\specialization_hw\obj\Debug\net7.0\refint\specialization_hw.dll
+C:\Users\Nikit\Desktop\Учеба GB\Specialization\specialization_hw\obj\Debug\net7.0\specialization_hw.pdb
+C:\Users\Nikit\Desktop\Учеба GB\Specialization\specialization_hw\obj\Debug\net7.0\specialization_hw.genruntimeconfig.cache
+C:\Users\Nikit\Desktop\Учеба GB\Specialization\specialization_hw\obj\Debug\net7.0\ref\specialization_hw.dll
